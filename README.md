@@ -1,3 +1,10 @@
+# Arduino Robotics Labs
+This repository contains Arduino scripts for labs 3 and labs 4 for MSE 2202 MSE Bots. All scripts are intended for the MSEArduino board. 
+## Lab 3
+In Lab 3, the challege was to instruct the robot to follow a path of black tape.
+## Lab 4 
+Lab 4 is an extendion of Lab 3. The robot is now required to follow the path of balck tape, detect an LED tube using a light sensor and activate the claw to pick up the light tube and place it on top of a box. 
+
 #include <I2CEncoder.h>
 
 #include <CharliePlexM.h>
